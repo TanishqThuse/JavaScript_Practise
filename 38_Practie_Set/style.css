@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body{
+    height : 100%;
+    width : 100%;
+}
+
+nav{
+    display: flex;
+}
+
+nav li{
+    list-style: null;
+    padding: 0 23px;
+    background-color: cyan;
+}
+
